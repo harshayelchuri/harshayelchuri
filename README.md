@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @harshayelchuri
 - 👀 I’m interested in making machines intelligent
 - 🌱 I’m currently researching Federated Learning, Reinforcement Learning, TinyML, and NLP
-- 💞️ I’m looking to collaborate on interesting projects in the field of Robotics and Reinforcement Learning
+- 💞️ I’m looking to collaborate on interesting projects in the field of Robotics Systems
 - 📫 How to reach me: harshayelchuri2000@gmail.com
 
 <!---
